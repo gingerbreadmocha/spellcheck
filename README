@@ -1,0 +1,8 @@
+# Installation
+
+Make sure you have node installed.
+Clone the repo.
+Run `npm install`
+
+# Running the Program
+Run `npm start`

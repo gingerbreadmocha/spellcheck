@@ -1,0 +1,14 @@
+{
+  "name": "spellchecker",
+  "version": "1.0.0",
+  "description": "spellcheck",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.11.3"
+  }
+}
